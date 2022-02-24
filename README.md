@@ -13,7 +13,7 @@
 <br>
 
 #### My hobbies include:
-##### <li> ![img_football_icon.png] Sports (Football and MMA are my favorites)
+##### <li> Sports (Football and MMA are my favorites)
 ##### <li> Hunting & Fishing
 ##### <li> Stock Market Research
 <br>
