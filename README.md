@@ -21,3 +21,10 @@
 #### Contact Me:
 ##### Email: jharalson29@gmail.com
 ##### Github: https://github.com/jhara0994
+![stock_icon](https://user-images.githubusercontent.com/92455472/155612957-03f591cd-c3c8-4569-9dc5-3786a6e2d7fc.png)
+
+![fishing_icon](https://user-images.githubusercontent.com/92455472/155612982-528ced33-333a-4092-802c-e4e123a70327.png)
+![family_icon](https://user-images.githubusercontent.com/92455472/155613008-3440f054-be32-4bf3-8
+![football_icon](https://user-images.githubusercontent.com/92455472/155613078-f2f3fb38-0700-448c-8fad-4277f0b5c1e3.png)
+4b8-7fcbcb534c9e.png)
+ 
