@@ -10,13 +10,13 @@
 
 # Get to know me
 #### When not at my computer, I can usually be found spending time with my family.
-<br>
+<hr>
 
 #### My hobbies include:
 ##### <li>  Sports (Football and MMA are my favorites)
 ##### <li> Hunting & Fishing
 ##### <li> Stock Market Research
-<br>
+<hr>
 
 #### Contact Me:
 ##### Email: jharalson29@gmail.com
