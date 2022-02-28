@@ -13,9 +13,9 @@
 <hr>
 
 #### My hobbies include:
-##### <li>  Sports (Football and MMA are my favorites)
-##### <li> Hunting & Fishing
-##### <li> Stock Market Research
+##### <li> <icon>:football:</icon> Sports (Football and MMA are my favorites)
+##### <li> :fishing_pole_and_fish: Hunting & Fishing
+##### <li> :money_with_wings: Stock Market Research
 <hr>
 
 #### Contact Me:
